@@ -14,3 +14,20 @@ error_mapping = {
     "SPL": "Compounding missing",
     "DER": "Derivation",
 }
+
+label_mapping = {
+    "F": 0,
+    "INFL": 1,
+    "W": 2,
+    "ORT": 3,
+    "M": 4,
+    "R": 5,
+    "PUNC": 6,
+    "PUNCM": 7,
+    "PUNCR": 8,
+    "O": 9,
+    "CAP": 10,
+    "PART": 11,
+    "SPL": 12,
+    "DER": 13, 
+}
